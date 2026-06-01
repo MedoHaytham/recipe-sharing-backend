@@ -87,11 +87,14 @@ exports.forgotPassword = asyncWrapper(
     await user.save({ validateBeforeSave: false });
 
     // 3) Send it to user's email
-    // 3A) create reset url
-    const resetUrl = `${req.protocol}://${req.get('host')}/api/v1/users/resetPassword/${resetToken}`;
+    // 3A) Build a frontend-facing reset URL so the user lands on the UI page
+    const origin = req.get('origin') || req.get('referer');
+    const frontendBase = origin
+      ? new URL(origin).origin
+      : 'https://recipe-sharing-frontend-m8jm.vercel.app';
+    const resetUrl = `${frontendBase}/reset-password?token=${resetToken}`;
     // 3B) write email message
-    const message = `For reset your password, please click on the following link: ${resetUrl}\n
-    If you didn't request a password reset, please ignore this email.`
+    const message = `To reset your password, click the link below (valid for 10 minutes):\n\n${resetUrl}\n\nIf you didn't request a password reset, please ignore this email.`
     // 3C) Send email
     try {
       await sendEmail({
