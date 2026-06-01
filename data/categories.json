@@ -1,0 +1,8 @@
+[
+  { "name": "Breakfast", "emoji": "🌅", "img": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=400&q=70" },
+  { "name": "Vegan",     "emoji": "🌿", "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=70" },
+  { "name": "Desserts",  "emoji": "🍰", "img": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=400&q=70" },
+  { "name": "Pasta",     "emoji": "🍝", "img": "https://images.unsplash.com/photo-1598866594230-a7c12756260f?w=400&q=70" },
+  { "name": "Soups",     "emoji": "🍲", "img": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&q=70" },
+  { "name": "Salads",    "emoji": "🥗", "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=70" }
+]

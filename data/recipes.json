@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1,
+    "title": "Classic Eggs Benedict",
+    "img": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=600&q=70",
+    "desc": "Perfectly poached eggs on toasted muffins with velvety hollandaise sauce.",
+    "category": "Breakfast",
+    "difficulty": "Medium",
+    "time": 25,
+    "rating": 4.7,
+    "reviews": 128,
+    "ingredients": [
+      "4 large eggs",
+      "2 English muffins, halved",
+      "4 slices Canadian bacon",
+      "3 egg yolks",
+      "120g unsalted butter",
+      "1 tbsp lemon juice",
+      "Salt & white pepper to taste",
+      "Fresh chives to garnish"
+    ],
+    "steps": [
+      "Bring a pot of water to a gentle simmer, add 1 tbsp vinegar.",
+      "Make hollandaise: whisk yolks and lemon juice in a double boiler until pale and thick.",
+      "Slowly drizzle in melted butter whisking constantly. Season and keep warm.",
+      "Toast muffin halves and warm the bacon slices in a pan.",
+      "Crack each egg into a small cup, swirl the water, and slide the egg in. Poach 3 minutes.",
+      "Assemble: muffin, bacon, poached egg, then drizzle hollandaise generously. Garnish with chives."
+    ],
+    "creator": "6a1d475caf444cb8cf81a6e9"
+  },
+  {
+    "id": 2,
+    "title": "Avocado & Quinoa Buddha Bowl",
+    "img": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&q=70",
+    "desc": "A nourishing vegan bowl packed with protein-rich quinoa and creamy avocado.",
+    "category": "Vegan",
+    "difficulty": "Easy",
+    "time": 20,
+    "rating": 4.9,
+    "reviews": 214,
+    "ingredients": [
+      "1 cup quinoa, rinsed",
+      "2 cups vegetable broth",
+      "1 ripe avocado, sliced",
+      "1 cup cherry tomatoes, halved",
+      "1 cucumber, diced",
+      "½ red onion, thinly sliced",
+      "Handful of baby spinach",
+      "3 tbsp tahini",
+      "2 tbsp lemon juice",
+      "1 clove garlic, minced",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Cook quinoa in vegetable broth for 15 minutes until fluffy. Fluff with a fork and let cool slightly.",
+      "Whisk together tahini, lemon juice, garlic, and 2 tbsp water to make dressing. Season to taste.",
+      "Arrange spinach as the base of your bowl.",
+      "Add quinoa, then arrange avocado, tomatoes, cucumber, and red onion in sections.",
+      "Drizzle dressing generously over everything. Serve immediately."
+    ],
+    "creator": "6a1d475caf444cb8cf81a6e9"
+  },
+  {
+    "id": 3,
+    "title": "Tiramisu Classico",
+    "img": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=600&q=70",
+    "desc": "The authentic Italian dessert — espresso-soaked ladyfingers and mascarpone cream.",
+    "category": "Desserts",
+    "difficulty": "Medium",
+    "time": 40,
+    "rating": 4.8,
+    "reviews": 305,
+    "ingredients": [
+      "300g ladyfinger biscuits",
+      "500g mascarpone cheese",
+      "4 large eggs, separated",
+      "100g caster sugar",
+      "300ml strong espresso, cooled",
+      "50ml coffee liqueur (optional)",
+      "Cocoa powder for dusting"
+    ],
+    "steps": [
+      "Beat egg yolks with sugar until pale and doubled in volume (about 5 minutes).",
+      "Fold mascarpone into the yolk mixture until smooth.",
+      "Whisk egg whites to stiff peaks in a separate bowl.",
+      "Gently fold whites into the mascarpone mixture in thirds.",
+      "Mix espresso and liqueur. Briefly dip each ladyfinger (1–2 seconds per side) and lay in a dish.",
+      "Spread half the cream over the biscuit layer. Repeat with remaining biscuits and cream.",
+      "Dust generously with cocoa powder. Refrigerate at least 4 hours (overnight is best)."
+    ],
+    "creator": "6a1d475caf444cb8cf81a6e9"
+  },
+  {
+    "id": 4,
+    "title": "Cacio e Pepe",
+    "img": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?w=600&q=70",
+    "desc": "Rome's most iconic pasta — only three ingredients, but technique is everything.",
+    "category": "Pasta",
+    "difficulty": "Hard",
+    "time": 20,
+    "rating": 4.6,
+    "reviews": 89,
+    "ingredients": [
+      "400g spaghetti or tonnarelli",
+      "200g Pecorino Romano, finely grated",
+      "50g Parmesan, finely grated",
+      "2 tsp freshly cracked black pepper",
+      "Salt for pasta water"
+    ],
+    "steps": [
+      "Bring a large pot of lightly salted water to boil. Cook pasta 2 minutes less than package says.",
+      "Toast black pepper in a dry pan for 60 seconds. Add ½ cup pasta water and reduce by half.",
+      "Reserve 2 cups pasta water before draining.",
+      "Add pasta to the pepper pan, toss over medium heat, adding pasta water a splash at a time.",
+      "Remove from heat. Mix cheeses with ½ cup pasta water to form a paste.",
+      "Add cheese paste off-heat, tossing vigorously until silky and creamy. Serve immediately."
+    ],
+    "creator": "6a1d475caf444cb8cf81a6e9"
+  },
+  {
+    "id": 5,
+    "title": "French Onion Soup",
+    "img": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=600&q=70",
+    "desc": "Slow-caramelized onions in a rich beef broth, topped with melted Gruyère croutons.",
+    "category": "Soups",
+    "difficulty": "Medium",
+    "time": 90,
+    "rating": 4.7,
+    "reviews": 176,
+    "ingredients": [
+      "1.5kg onions, thinly sliced",
+      "60g unsalted butter",
+      "1 tbsp olive oil",
+      "1 tsp sugar",
+      "200ml dry white wine",
+      "1.5L beef stock",
+      "4 slices sourdough bread",
+      "200g Gruyère cheese, grated",
+      "Salt & pepper",
+      "Fresh thyme sprigs"
+    ],
+    "steps": [
+      "Melt butter and oil in a wide heavy pot over medium-low heat.",
+      "Add onions, salt, and thyme. Cook uncovered, stirring every 10 minutes, for 60–75 minutes until deeply golden.",
+      "Add sugar and wine; let the wine evaporate completely.",
+      "Pour in stock, bring to a simmer, cook 20 minutes. Season generously.",
+      "Ladle soup into oven-safe bowls. Top each with a bread slice and heap of Gruyère.",
+      "Broil 3–4 minutes until cheese is bubbling and golden. Serve immediately."
+    ],
+    "creator": "6a1d475caf444cb8cf81a6e9"
+  },
+  {
+    "id": 6,
+    "title": "Niçoise Salad",
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=70",
+    "desc": "A classic Provençal salad with tuna, olives, eggs and a Dijon vinaigrette.",
+    "category": "Salads",
+    "difficulty": "Easy",
+    "time": 25,
+    "rating": 4.5,
+    "reviews": 93,
+    "ingredients": [
+      "2 cans quality tuna in olive oil",
+      "4 hard-boiled eggs, halved",
+      "200g green beans, blanched",
+      "200g cherry tomatoes, halved",
+      "100g Niçoise olives",
+      "1 small red onion, thinly sliced",
+      "Mixed salad leaves",
+      "3 tbsp olive oil",
+      "1 tbsp red wine vinegar",
+      "1 tsp Dijon mustard",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Make dressing: whisk together olive oil, vinegar, mustard, salt and pepper.",
+      "Arrange salad leaves on a large platter.",
+      "Artfully place tuna (broken into large chunks), eggs, beans, tomatoes, olives, and onion.",
+      "Drizzle dressing generously over the salad.",
+      "Serve immediately with crusty bread."
+    ],
+    "creator": "6a1d475caf444cb8cf81a6e9"
+  }
+]
