@@ -18,8 +18,8 @@ const app = express();
 
 // CORS Middleware
 const allowedOrigins = [
-  'http://localhost:5001',
-  'http://localhost:3000'
+  'http://localhost:3000',
+  'https://recipe-sharing-frontend-4eprxn81r-medo-haytams-projects.vercel.app'
 ];
 
 app.use(
