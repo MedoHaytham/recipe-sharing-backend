@@ -11,12 +11,12 @@ const categorySchema = new mongoose.Schema({
   },
   emoji: {
     type: String,
-    required: [true, 'A category must have an emoji!'],
+    default: "🌐",
     trim: true
   },
   img: {
     type: String,
-    required: [true, 'A category must have an image link!'],
+    default: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=2070&auto=format&fit=crop",
     trim: true
   },
   createdAt: {
