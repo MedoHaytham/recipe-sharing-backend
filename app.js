@@ -19,7 +19,7 @@ const app = express();
 // CORS Middleware
 const allowedOrigins = [
   'http://localhost:3000',
-  'https://recipe-sharing-frontend-m8jm-iuaucfkze-medo-haytams-projects.vercel.app'
+  'https://recipe-sharing-frontend-m8jm.vercel.app'
 ];
 
 app.use(
